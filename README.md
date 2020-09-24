@@ -1,6 +1,6 @@
 # GlobalGiving-Project
 
- ## Part 1, Retention
+ ## Retention
 Following the advice of Patrick Campbell, I decided to keep things simple and calculate churn (and its inverse, retention) by dividing the total number of churned organizations in a period by the number of partners we had on the first day of that period.
 Campbell also argues that churn should be defined as the moment when a customer’s subscription period ends and they don’t renew. Although we’re not looking at subscriptions, I decided that the period of time that a nonprofit is vetted is a good parallel to a subscription period, given that vetting also requires a monetary investment from the nonprofit. We’ll be looking at the churn and retention rates by month (See section 2 of the code file).
  
