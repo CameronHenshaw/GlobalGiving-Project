@@ -15,6 +15,8 @@ We should also pay attention to the organizations that start using the platform,
 ## Correlation and Dashboard
 After exploring retention, I wanted to investigate the correlation between different columns in the dataset. In particular, I looked at the time_frame_int column I created, as this contained the number of days until the organizations churned. With this column, I could see what variables correlated with how long organizations used the GlobalGiving platform.
 
+(See Section 3 of the code file)
+
 There was a weak positive linear relationship between the time_frame_int column and  the number of field visits. There was also a weak positive linear relationship between the time_frame_int column and all time unique donors.
 
 There was also a weak negative linear relationship with the ID number. I would guess that this is due to the fact that organizations with higher ID numbers are newer to using GlobalGiving, and therefore have had less opportunity to spend time on the platform.
