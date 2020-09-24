@@ -24,7 +24,7 @@ There was also a weak negative linear relationship with the ID number. I would g
 
 For a dashboard, I would include the three retention rates, listed at the end of Part 1, as well as a comparison between these rates and the previous months. For example, “95% Six-month project activity retention: 5% higher than previous month.*” This gives us a good idea of the overall picture of retention, while also giving us a comparison to quickly verify if there are large jumps in rates. 
 
-While I found some correlations, I would want to explore the bulk projects data set further, as well as others, to get a better picture of what most affects retention rate. After doing this, I would want to include further visuals on the dashboard to demonstrate if there are any big changes in these variables- for instance, a pie chart that highlights that there are an abnormally large number of Superstar organizations that had no project activity in the last six months. I’d like to go into this further, but unfortunately I’ve run up against time. 
+While I found some correlations, I would want to explore the bulk projects data set further, as well as others, to get a better picture of what most correlates with retention rate. After doing this, I would want to include further visuals on the dashboard to demonstrate if there are any big changes in these variables- for instance, a pie chart that highlights that there are an abnormally large percentage of Superstar organizations that had no project activity in the last six months. I’d like to go into this further, but unfortunately I’ve run up against time. 
 
 *Unless there is a stronger yearly pattern; it may be better to compare to the same month of the previous year
 
